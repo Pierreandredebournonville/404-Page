@@ -1,0 +1,40 @@
+
+
+
+body {
+  background-color: black;
+  background-image: url("/Users/pierre-andredebournonville/Desktop/becode_project/404-Page/giphy.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 500px;
+  margin: 7%;
+  padding: 7%;
+}
+h1{
+  font-size: 500%;
+  color: #39FF14;
+  font-weight: bolder;
+  margin-top: 150px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+p {
+  font-family: mATrIX;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  Color: #39FF14;
+  line-height: 45px;
+}
+.lien {
+
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+
+}
+input {
+  width: 70px;
+  font-size: 55px;
+}
