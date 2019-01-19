@@ -4,9 +4,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 500px;
-  margin: 7%;
-  margin-top: 30px
-  padding: 5%;
+  margin: 10%;
+  font-family: 'Bree Serif', serif;
 }
 h1{
   font-size: 500%;
@@ -17,12 +16,11 @@ h1{
   text-align: center;
 }
 p {
-  font-family: mATrIX;
   font-size: 30px;
   font-weight: bold;
   text-align: center;
   Color: #39FF14;
-  line-height: 45px;
+  line-height: 25px;
 }
 .button {
   text-align: center;
@@ -34,6 +32,7 @@ p {
   text-align: center;
 }
 input {
-  width: 70px;
-  font-size: 55px;
+  width: 250px;
+  height: 70px;
+  font-size: 25px;
 }
